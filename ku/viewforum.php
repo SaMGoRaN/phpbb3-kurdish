@@ -13,7 +13,7 @@
 
 /**
 * DO NOT CHANGE
-*/
+*/                   ((ئەم پەڕگەیە وەرگێڕدراوە))
 if (!defined('IN_PHPBB'))
 {
 	exit;
@@ -44,10 +44,10 @@ $lang = array_merge($lang, array(
 	'ICON_STICKY'	=> 'جێگیر',
 	'LOGIN_NOTIFY_FORUM'	=> 'ئاگادار کرایتەوە لەم مەکۆیە، تکایە بچۆ ژوورەوە بۆ بینینی.',
 	'MARK_TOPICS_READ'	=> 'بابەتەکان وەک خوێندراوە نیشانە بکە',
-	'NEW_POSTS_HOT'			=> 'New posts [ Popular ]',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
-	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
-	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
+	'NEW_POSTS_HOT'			=> 'نوێترین بەشداری [ زۆر بینراو ]',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'نوێترین بەشداری [ داخراو ]',	// Not used anymore
+	'NO_NEW_POSTS_HOT'		=> 'بەشداری نوێ نییە [ زۆر بینراو ]',	// Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'بەشداری نوێ نییە [ داخراو ]',	// Not used anymore
 	'NO_READ_ACCESS'		=> 'تۆ دەسەڵاتت نییە بۆ بابەت بخوێنیتەوە لەناو ئەو مەکۆیە',
 	'NO_UNREAD_POSTS_HOT'		=> 'هیچ پەیامی نەخوێندراو نییە [ پڕخوێنەرترین ]',
 	'NO_UNREAD_POSTS_LOCKED'	=> 'هیچ پەیامێکی نەخوێندراو نییە [ داخراو ]',
@@ -58,9 +58,9 @@ $lang = array_merge($lang, array(
 
 	'UNREAD_POSTS_HOT'		=> 'پەیامی نەخوێندراو [ پڕخوێنەرترین ]',
 	'UNREAD_POSTS_LOCKED'	=> '[ داخراو ] پەیامە نەخوێندراوەکان',
-	'VIEW_FORUM'			=> 'View forum',
+	'VIEW_FORUM'			=> 'پیشاندانی مەکۆ',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d بابەت',
+		2	=> '%d بابەت',
 	),
 ));
