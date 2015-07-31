@@ -1,6 +1,6 @@
 <?php
 /**
-*
+* Last translation By SaM GoRaN
 * This file is part of the phpBB Forum Software package.
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
