@@ -5,7 +5,7 @@
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
-*
+* @translated 2015 by [ SaM GoRaN, Sia Nariman, cutiyar ]
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
@@ -18,7 +18,7 @@ if (!defined('IN_PHPBB'))
 
 $synonyms = array(
 	'مه‌کۆ'			=> 'مەکۆ',
-	'مەكۆ'		=> 'مەکۆ',
+	'وۆردپرێس'		=> 'وۆردپرێس',
 	'wp'		=> 'WordPress',
 	'کۆمپیتەر'	=> 'کۆمپیوتەر',
 	'ئەنتەرنێت'			=> 'ئینتەرنێت',
